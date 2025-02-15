@@ -1,0 +1,101 @@
+*** DIY PCB Fabrication Using Toner Transfer and Etching ***
+
+**Introduction**
+
+This guide outlines the step-by-step process of fabricating a PCB using the toner transfer method and regular etching. This is a cost-effective method for DIY PCB manufacturing.
+
+**Materials Required**
+
+Copper-clad board (FR4 or other suitable material)
+
+Laser printer (with toner-based ink)
+
+Glossy paper (magazine paper or photo paper works best)
+
+Ferric chloride (FeCl₃) solution (or an alternative etchant)
+
+Plastic container (for etching)
+
+Sandpaper or scouring pad (to clean the board)
+
+Iron or laminator (for toner transfer)
+
+Acetone (for removing toner)
+
+Drill (for component holes)
+
+Gloves and safety goggles
+
+Rubbing alcohol (for cleaning)
+
+**Step-by-Step Process**
+
+1. PCB Design
+
+Design the PCB layout using software like KiCad, Eagle, or EasyEDA.
+
+Ensure traces are sufficiently thick for etching (~0.3mm minimum).
+
+Mirror the design before printing (especially for single-layer PCBs).
+
+Print the design using a laser printer on glossy paper.
+
+2. Preparing the Copper-Clad Board
+
+Cut the copper-clad board to size.
+
+Use sandpaper or a scouring pad to clean the surface. Ensure no oxidation or dirt remains.
+
+Wash and dry the board before proceeding.
+
+3. Toner Transfer
+
+Align the printed PCB design toner side down onto the copper board.
+
+Use a hot iron or laminator to transfer the toner onto the copper.
+
+If using an iron, apply firm, even pressure for 5–10 minutes.
+
+If using a laminator, pass it through several times.
+
+Let the board cool and then soak it in warm water for 10–15 minutes.
+
+Gently peel off the paper, ensuring the toner remains on the board.
+
+If any traces are incomplete, touch them up with a permanent marker.
+
+4. Etching the PCB
+
+Prepare a Ferric chloride solution in a plastic container.
+
+Place the board in the solution and gently agitate every few minutes.
+
+Wait for 10–30 minutes until all exposed copper is dissolved.
+
+Once done, remove the board and rinse thoroughly with water.
+
+5. Removing Toner
+
+Use acetone or rubbing alcohol with a cloth or tissue to wipe off the toner.
+
+The PCB traces should now be clearly visible.
+
+6. Drilling Holes
+
+Use a small drill bit (0.8mm - 1mm) to drill holes for components.
+
+Ensure precise alignment for proper soldering.
+
+7. Finishing Touches
+
+Clean the PCB with alcohol to remove any residue.
+
+Optionally, apply a thin layer of solder mask or tin the traces with solder for better conductivity.
+
+**Additional Notes**
+
+Always work in a well-ventilated area while etching.
+
+Use gloves and goggles to protect from ferric chloride.
+
+Dispose of used etchant responsibly according to local regulations.
