@@ -1,8 +1,8 @@
-🚀 ESP32 Projects Repository
+# 🚀 ESP32 Projects Repository #
 
 Welcome to the ESP32 Projects Repository! This repository contains a collection of exciting and innovative projects using the ESP32 microcontroller. Whether you're a beginner or an advanced developer, you'll find something valuable here.
 
-🔥 Why ESP32?
+## 🔥Why ESP32? ##
 
 🏎 High Performance: Dual-core processor with Wi-Fi & Bluetooth.
 
@@ -12,7 +12,7 @@ Welcome to the ESP32 Projects Repository! This repository contains a collection 
 
 💡 Low Power: Perfect for battery-powered applications.
 
-📂 Project List
+## 📂 Project List ##
 
 ✅ GPIO Expansion Board
 
@@ -38,7 +38,7 @@ Host a web-based control panel for your projects.
 
 Monitor and control sensors & actuators over Wi-Fi.
 
-⚙️ Getting Started
+## ⚙️Getting Started ##
 
 1️⃣ Clone this repository:
 ```bash
@@ -48,7 +48,7 @@ git clone https://github.com/your-username/ESP32-Projects.git
 2️⃣ Choose a project and navigate to its folder.
 3️⃣ Follow the setup instructions in the README file inside each project.
 
-🛠 Requirements
+## 🛠Requirements ##
 
 ESP32 DevKit V1
 
@@ -56,7 +56,7 @@ Arduino IDE / PlatformIO
 
 Required sensors and modules (varies per project)
 
-🌎 Contribute
+## 🌎Contribute ##
 
 🚀 Have an awesome ESP32 project? Contribute and help grow this repository!
 
@@ -66,11 +66,11 @@ Required sensors and modules (varies per project)
 
 --> Submit a pull request 🎉
 
-📞 Support
+## 📞Support ##
 
 💬 Found an issue or need help? Feel free to open an issue or start a discussion!
 
-📜 License
+## ⚖️License ##
 
 This repository is licensed under the Apache 2.0 License. 
 
