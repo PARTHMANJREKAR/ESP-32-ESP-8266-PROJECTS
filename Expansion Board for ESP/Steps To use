@@ -1,8 +1,10 @@
 *** DIY PCB Fabrication Using Toner Transfer and Etching ***
 
+
 **Introduction**
 
 This guide outlines the step-by-step process of fabricating a PCB using the toner transfer method and regular etching. This is a cost-effective method for DIY PCB manufacturing.
+
 
 **Materials Required**
 
@@ -27,6 +29,7 @@ Drill (for component holes)
 Gloves and safety goggles
 
 Rubbing alcohol (for cleaning)
+
 
 **Step-by-Step Process**
 
@@ -91,6 +94,7 @@ Ensure precise alignment for proper soldering.
 Clean the PCB with alcohol to remove any residue.
 
 Optionally, apply a thin layer of solder mask or tin the traces with solder for better conductivity.
+
 
 **Additional Notes**
 
